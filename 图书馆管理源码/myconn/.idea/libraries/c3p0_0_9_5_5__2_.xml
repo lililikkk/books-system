@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.5.5 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/bin/c3p0-0.9.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/bin/commons-dbutils-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/bin/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/bin/commons-io-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/bin/fastjson-1.2.47.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/bin/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/bin/mchange-commons-java-0.2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/bin/mysql-connector-java-5.1.42-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/bin/standard-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
